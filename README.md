@@ -1,4 +1,3 @@
-<img align="right" src="https://user-images.githubusercontent.com/61736137/165254138-70830fcb-b25a-42b0-a8a4-b90678bcb2a2.svg" width="300"/>
 
 <h1> Hi, I'm Dream Coder Ellie <img src="https://user-images.githubusercontent.com/1569988/159394239-e0c43e47-0215-4e4f-983b-559c1994a9f7.png" height="180"></h1>
 
@@ -42,11 +41,3 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/dream-ellie" title="GitHub Dream Ellie">
-    <img src="https://img.shields.io/github/followers/dream-ellie?label=follow&style=social" alt-text="GitHub Dream Ellie" height="30"/>
-  </a>
-  <a href="https://www.youtube.com/c/%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC" title="드림코딩 by 엘리">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC_4u-bXaba7yrRz_6x6kb_w?style=social" alt-text="Youtube Channel Subscribers" height="30"/>
-  </a>
-</p>
