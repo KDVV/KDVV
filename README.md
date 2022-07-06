@@ -1,5 +1,8 @@
 
-<h1> Hi, I'm Kang DukWon <img src="https://user-images.githubusercontent.com/98933091/173484349-703332d6-99ed-418d-ab2b-2c7d4a55b7d8.png" height="180"></h1>
+<h1> Hi, I'm Kang DukWon <img src="https://user-images.githubusercontent.com/98933091/173484349-703332d6-99ed-418d-ab2b-2c7d4a55b7d8.png" height="180">
+<br>
+<p> </p>
+</h1>
 
 <p>
   <em>
